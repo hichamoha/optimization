@@ -19,3 +19,8 @@ Lagrange functions, KKT theory, Duality
 
 ### Penalty and Barrier Functions (chap. 9)
 Convert *constrained* *non-linear* optimization problem (P) to unconstrained and use algorithms.
+
+## Literature
+* Lars-Christer Böiers, "Mathematical Methods of Optimization". Studentlitteratur, 2010, ISBN: 978-91-44-07075-9.
+* Griva, Nash och Sofer, "Linear and Nonlinear Programming", second edition.
+* Amol Sasane and Krister Svanberg, "Optimization".
